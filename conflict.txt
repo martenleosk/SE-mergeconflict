@@ -1,3 +1,6 @@
-see ei ole rida1
+<<<<<<< HEAD
+=======
+rida1rida1rida1
+>>>>>>> cc37e966f344aee3fa3475ccf5fc893d7e37df9f
 rida2 
 rida3
